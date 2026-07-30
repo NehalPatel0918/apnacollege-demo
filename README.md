@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repo.
 <br>
-Author--Nehal Patel
+Author--Nehal Sureshbhai Patel
